@@ -476,8 +476,8 @@ header.jumbotron{
     background:#21b799;
     border-radius:50%;
     border:2px solid #21b799;
-	-webkit-box-sizing: content-box; 
-	-moz-box-sizing: content-box; 
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
 	box-sizing: content-box;
     top:-2px;
     left:-2px;
@@ -554,7 +554,7 @@ header.jumbotron{
 
 #about a:hover{
     text-decoration:underline;
-} 
+}
 
 #about .btn-theme.transparent {
     font-size:18px;
@@ -826,8 +826,8 @@ header.jumbotron{
       -ms-transition-duration: 0.7s;
        -o-transition-duration: 0.7s;
           transition-duration: 0.7s;
-          
-   transition-timing-function:ease-in-out;    
+
+   transition-timing-function:ease-in-out;
 }
 
 .masonry {
@@ -948,7 +948,7 @@ header.jumbotron{
 .modal-body .project-descr{
     color:#aaa;
     margin:0 0 24px;
-    
+
 }
 
 .modal-body .btn-theme{
@@ -1096,7 +1096,7 @@ header.jumbotron{
 #contact {
     background:transparent;
     color:#fff;
-	padding:80px 0; 
+	padding:80px 0;
 }
 
 #contact .section-title {

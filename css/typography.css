@@ -1,0 +1,50 @@
+#js-ion {
+  font-size: 90px;
+  padding-left: 50px;
+  margin-left: 10%;
+  display: inline-grid;
+}
+
+#skills-header {
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+#branding {
+  font-size: 20px !important;
+}
+
+#my-photo {
+  margin-top: 50%;
+}
+
+#skills {
+  height: 530px;
+}
+
+#services {
+  background-color: #375977;
+}
+
+#home-title {
+  font-size: 61px;
+}
+
+#home-message {
+  border: 3px solid;
+  border-radius: 40px;
+}
+
+#about-links {
+  display: inline !important;
+}
+
+#portfolio {
+  height: 850px;
+}
+
+#contact {
+  background-color: #073964;
+}
