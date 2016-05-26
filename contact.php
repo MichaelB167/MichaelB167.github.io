@@ -1,4 +1,9 @@
 <?php
+header("access-control-allow-origin: *");
+
+echo "test";
+die();
+
 $emailTo = 'Michael.M.Bates@gmail.com';
 $siteTitle = 'Michael Bates';
 
