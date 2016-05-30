@@ -60,6 +60,11 @@
 
 #portfolio {
   height: 850px;
+  background-color: #c4dbed;
+}
+
+#portfolio-header {
+  background-color: #c4dbed;
 }
 
 #contact {
