@@ -17,11 +17,12 @@
 }
 
 #my-photo {
-  margin-top: 50%;
+  margin-top: 30%;
 }
 
 #skills {
-  height: 530px;
+  height: 580px;
+  background-color: #fff;
 }
 
 #services {
@@ -37,8 +38,24 @@
   border-radius: 40px;
 }
 
-#about-links {
-  display: inline !important;
+#resume-container {
+  display: inline-block;
+  text-align: center;
+  margin-left: 25%
+}
+
+#resume-link {
+  border-radius: 30px;
+  margin-right: 30px;
+}
+
+#portfolio-link {
+  border-radius: 30px;
+  margin-right: 30px;
+}
+
+#github-link {
+  border-radius: 30px;
 }
 
 #portfolio {
