@@ -1132,14 +1132,14 @@ header.jumbotron{
 
 #contact .socials li{
     display:inline-block;
-    margin:0 15px 15px 0;
+    margin:20px 30px 15px 60px;
 }
 
 #contact .socials li a{
     display:inline-block;
     width:48px;
     height:48px;
-    font-size:32px;
+    font-size:95px;
     line-height:48px;
     text-align:center;
     text-decoration:none;
