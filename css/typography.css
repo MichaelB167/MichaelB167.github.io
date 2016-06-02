@@ -7,11 +7,15 @@
 
 #skills-header {
   font-size: 50px;
-  font-weight: bold;
+
   margin-bottom: 50px;
   text-align: center;
+  color: #297b89;
 }
 
+.service-heading {
+  color: #297b89;
+}
 #branding {
   font-size: 20px !important;
 }
@@ -25,7 +29,7 @@
 }
 #skills {
   height: 690px;
-  background-color: #fff;
+  background-image: url("http://i.imgur.com/vsFRrsO.png");
 }
 
 #services {
@@ -63,11 +67,11 @@
 
 #portfolio {
   height: 850px;
-  background-color: #c4dbed;
+  background-color: #cee2ee;
 }
 
 #portfolio-header {
-  background-color: #c4dbed;
+  background-color: #cee2ee;
 }
 
 #contact {
