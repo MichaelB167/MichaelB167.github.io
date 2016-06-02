@@ -24,7 +24,7 @@
   background-color: #149bb3;
 }
 #skills {
-  height: 580px;
+  height: 690px;
   background-color: #fff;
 }
 
@@ -72,4 +72,9 @@
 
 #contact {
   background-color: #073964;
+}
+
+#ember-icon {
+  margin-top: 25px;
+  margin-left: 25px;
 }
