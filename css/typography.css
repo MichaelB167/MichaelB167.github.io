@@ -28,7 +28,7 @@
   background-color: #149bb3;
 }
 #skills {
-  height: 690px;
+  padding-bottom: 80px;
   background-image: url("http://i.imgur.com/vsFRrsO.png");
 }
 
@@ -66,8 +66,8 @@
 }
 
 #portfolio {
-  height: 850px;
   background-color: #cee2ee;
+  padding-bottom: 80px;
 }
 
 #portfolio-header {
@@ -86,3 +86,8 @@
 .project-item {
   padding: 5px;
 }
+
+@media (max-width: 500px) {
+
+      }
+    }
