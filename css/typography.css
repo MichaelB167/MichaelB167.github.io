@@ -70,6 +70,14 @@
   padding-bottom: 80px;
 }
 
+.project-header{
+    color: #297b89;
+    font-size:23px;
+    font-weight:300;
+    text-align:center;
+    z-index:1;
+}
+
 #portfolio-header {
   background-color: #cee2ee;
 }
@@ -143,8 +151,4 @@ address {
   .project-item {
     padding-top: 15px;
   }
-  #contact-resume-link {
-
-  }
-
 }
