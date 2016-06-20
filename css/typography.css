@@ -7,7 +7,6 @@
 
 #skills-header {
   font-size: 50px;
-
   margin-bottom: 50px;
   text-align: center;
   color: #297b89;
@@ -16,6 +15,7 @@
 .service-heading {
   color: #297b89;
 }
+
 #branding {
   font-size: 20px !important;
 }
@@ -88,6 +88,43 @@
 }
 
 @media (max-width: 500px) {
+  #main-nav.scrolled .navbar-brand{
+      margin-top: -45px;
+      font-size: 30px;
+  }
+  #main-nav .navbar-brand{
+      margin-top: -45px;
+  }
+  #my-photo {
+    margin-top: -20px;
+  }
+  #resume-container {
+    margin: 0 auto;
+  }
+  #resume-link {
+    margin-bottom: 10px;
+    margin-left: 30px;
+  }
+  #portfolio-link {
+    margin-bottom: 10px;
+    margin-left: 30px;
+  }
+  #github-link {
+    margin-bottom: -25px;
+  }
+  #skills-header {
+    font-size: 35px;
+    margin-top: -30px;
+  }
+  #main-footer ul.footer-nav {
+    text-align: center;
+    margin-bottom: -15px;
+  }
+  address {
+    text-align: center;
+  }
+  #contact .socials {
+    margin-left: -22px;
+  }
 
-      }
-    }
+}
