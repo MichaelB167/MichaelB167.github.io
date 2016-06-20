@@ -95,6 +95,14 @@
   padding: 5px;
 }
 
+#project-modal h1 {
+  color: #297b89;
+}
+
+#project-modal .project-descr {
+  color: black;
+}
+
 #contact .socials {
   margin-left: 55px;
 }
