@@ -36,6 +36,10 @@
   background-color: #375977;
 }
 
+#services .details {
+  color: #fff;
+}
+
 #home-title {
   font-size: 61px;
 }
@@ -65,8 +69,12 @@
   border-radius: 30px;
 }
 
+#portfolio-header {
+  background-color: #c9daee;
+}
+
 #portfolio {
-  background-color: #cee2ee;
+  background-color: #c9daee;
   padding-bottom: 80px;
 }
 
@@ -76,10 +84,6 @@
     font-weight:300;
     text-align:center;
     z-index:1;
-}
-
-#portfolio-header {
-  background-color: #cee2ee;
 }
 
 #contact {
