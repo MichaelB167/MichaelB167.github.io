@@ -122,9 +122,18 @@ address {
 }
 
 @media (max-width: 500px) {
+  #main-nav .navbar-toggle {
+    color:#297b89;
+    border-color:#297b89;
+  }
+  #main-nav .navbar-toggle .icon-bar{
+      background:#297b89;
+  }
+  #main-nav .navbar-brand{
+    color: #297b89;
+  }
   #main-nav.scrolled .navbar-brand{
       margin-top: -45px;
-      font-size: 30px;
   }
   #main-nav .navbar-brand{
       margin-top: -45px;
